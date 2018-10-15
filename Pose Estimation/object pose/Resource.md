@@ -4,7 +4,7 @@
 	
 2018: [CVPR](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#cvpr-2018),
 [ECCV](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#eccv-2018)
-	
+[others]	
 2017: [CVPR](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#cvpr-2017), [ICCV](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#iccv-2017)
 	
 2016: 
@@ -54,3 +54,7 @@
 >#### 1. Tjaden, H., Schwanecke, U., & Schömer, E. (2017). `Real-time monocular pose estimation of 3d objects using temporally consistent local color histograms`. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 124–132. [[PDF](https://doi.org/10.1109/ICCV.2017.23)][Read]
 
 >#### 2. Rad, M., & Lepetit, V. (2017). `BB8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects without Using Depth`. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 3848–3856. [[PDF](https://doi.org/10.1109/ICCV.2017.413)][Read]
+
+
+# others-2018
+>#### [2018 RSS]. Xiang, Y., Schmidt, T., Narayanan, V., & Fox, D. PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes.[[PDF](http://arxiv.org/abs/1711.00199)][Read]
