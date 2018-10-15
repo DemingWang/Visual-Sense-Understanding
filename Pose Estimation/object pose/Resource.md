@@ -2,12 +2,11 @@
 	
 ## Conference Papers
 	
-	2018: [CVPR](),
-	[ECCV]
+>2018[CVPR]()
 	
-	2017: [CVPR]
+2017: [CVPR]
 	
-	2016: 
+2016: 
 	
 	
 	
@@ -29,3 +28,4 @@
 # CVPR-2017
 
 # CVPR-2016
+	
