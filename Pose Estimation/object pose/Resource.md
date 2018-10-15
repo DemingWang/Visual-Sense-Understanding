@@ -11,6 +11,9 @@
 
 	
 ## [Other Related papers](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#other-related-work)
+#### mathematics:
+#####
+
 
 
 	
