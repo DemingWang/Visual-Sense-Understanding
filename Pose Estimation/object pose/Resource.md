@@ -10,7 +10,7 @@
 [others](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#others)
 
 	
-## Other Related papers
+## [Other Related papers](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#other-related-work)
 
 
 	
@@ -82,6 +82,8 @@
 
 >#### [2013 CVPR]Shotton, J., Glocker, B., Zach, C., Izadi, S., Criminisi, A., & Fitzgibbon, A. (2013). `Scene coordinate regression forests for camera relocalization in RGB-D images`. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2930–2937. [[PDF](https://doi.org/10.1109/CVPR.2013.377)]
 
+>#### [2015 ICCV] Krull, Alexander, et al. "`Learning analysis-by-synthesis for 6d pose estimation in rgb-d images`." Proceedings of the IEEE International Conference on Computer Vision. 2015.[[PDF](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Krull_Learning_Analysis-by-Synthesis_for_ICCV_2015_paper.pdf)]
+
 
 # other related work
 >#### [2007 ICCV] Moreno-noguer, F. (2007). `EPnP: An Accurate O(n) Solution to the PnP Problem`. [[PDF](https://doi.org/10.1109/ICCV.2007.4409116)][Read]
@@ -104,9 +106,21 @@
 
 >#### [2017 ICCV] Bertasius, G., Park, H. S., Yu, S. X., & Shi, J. (2016). `Unsupervised Learning of Important Objects from First-Person Videos`. [[PDF](https://doi.org/10.1109/ICCV.2017.216)][Read]
 
->#### [2008 CVPR] Shotton, J., Johnson, M., & Cipolla, R. (2008). `Semantic Texton Forest for Image Categorization and Segmentation`. Proceedings of the Conference on Computer Vision and Pattern Recognition, 1–8.
+>#### [2008 CVPR] Shotton, J., Johnson, M., & Cipolla, R. (2008). `Semantic Texton Forest for Image Categorization and Segmentation`. Proceedings of the Conference on Computer Vision and Pattern Recognition, 1–8.[[PDF](http://mi.eng.cam.ac.uk/~cipolla/archive/Publications/inproceedings/2008-CVPR-semantic-texton-forests.pdf)]
 
->#### [2011 TPAMI] Gall, J., Yao, A., Razavi, N., Van Gool, L., & Lempitsky, V. (2011). `Hough forests for object detection, tracking, and action recognition`. IEEE Transactions on Pattern Analysis and Machine Intelligence, 33(11), 2188–2202. [[PDF](https://doi.org/10.1109/TPAMI.2011.70)]
+>#### [2011 TPAMI] Gall, J., Yao, A., Razavi, N., Van Gool, L., & Lempitsky, V. (2011). `Hough forests for object detection, tracking, and action recognition`. IEEE Transactions on Pattern Analysis and Machine Intelligence, 33(11), 2188–2202. [[PDF](https://doi.org/10.1109/TPAMI.2011.70)][Read]
+
+>#### [2007 TPAMI] Kolmogorov, V., & Rother, C. (2007). `Minimizing nonsubmodular functions with graph cuts - A review`. IEEE Transactions on Pattern Analysis and Machine Intelligence, 29(7), 1274–1279. [[PDF](https://doi.org/10.1109/TPAMI.2007.1031)]
+
+>#### [2015 CVPR] Shekhovtsov, Alexander, Paul Swoboda, and Bogdan Savchynskyy. "`Maximum persistency via iterative relaxed inference with graphical models`." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.[[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Shekhovtsov_Maximum_Persistency_via_2015_CVPR_paper.pdf)]
+
+>#### [2016 CVPR] Massa, F., Russell, B., & Aubry, M. (2015). `Deep Exemplar 2D-3D Detection by Adapting from Real to Rendered Views`, 6024–6033. [[PDF](https://doi.org/10.1109/CVPR.2016.648)][Read]
+
+>#### [2018 CVPR] Poier, G., Schinagl, D., & Bischof, H. (2018). `Learning Pose Specific Representations by Predicting Different Views`, 60–69. [[PDF](https://doi.org/10.1109/CVPR.2018.00014)]
+
+>#### [2015 ICCV] Crivellaro, A., Rad, M., Verdie, Y., Yi, K. M., Fua, P., & Lepetit, V. (2015). A novel representation of parts for accurate 3d object detection and tracking in monocular images. Proceedings of the IEEE International Conference on Computer Vision, 2015 Inter, 4391–4399. [[PDF](https://doi.org/10.1109/ICCV.2015.499)][Read]
+
+
 
 
 
