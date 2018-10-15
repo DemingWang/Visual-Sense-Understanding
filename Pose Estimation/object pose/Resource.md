@@ -55,6 +55,7 @@
 
 >#### 2. Rad, M., & Lepetit, V. (2017). `BB8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects without Using Depth`. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 3848–3856. [[PDF](https://doi.org/10.1109/ICCV.2017.413)][Read]
 
+>#### 3. Kehl, W., Manhardt, F., Tombari, F., Ilic, S., & Navab, N. (2017). `SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again`. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 1530–1538. [[PDF](https://doi.org/10.1109/ICCV.2017.169)][Read]
 
 # others-2018
->#### [2018 RSS]. Xiang, Y., Schmidt, T., Narayanan, V., & Fox, D. PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes.[[PDF](http://arxiv.org/abs/1711.00199)][Read]
+>#### [2018 RSS]. Xiang, Y., Schmidt, T., Narayanan, V., & Fox, D. `PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes`.[[PDF](http://arxiv.org/abs/1711.00199)][Read]
