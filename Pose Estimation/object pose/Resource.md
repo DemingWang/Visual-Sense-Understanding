@@ -31,11 +31,12 @@
 
 >#### 4. Grabner, A., Roth, P. M., & Lepetit, V. (2018). `3D Pose Estimation and 3D Model Retrieval for Objects in the Wild`. Cvpr, 3022–3031.[[PDF](https://doi.org/10.3217/978-3-85125-603-1-26)]
 
-# CVPR-2017
+## CVPR-2017
+>#### 1. Michel, F., Kirillov, A., Brachmann, E., Krull, A., Gumhold, S., Savchynskyy, B., & Rother, C.` Global Hypothesis Generation for 6D Object Pose Estimation`, 462–471. [[PDF](https://doi.org/10.1109/CVPR.2017.20)][Read]
 
-# CVPR-2016
 
-# ECCV-2018
+
+## ECCV-2018
 >#### 1. Oberweger, M., Rad, M., & Lepetit, V. (2018).`Making Deep Heatmaps Robust to Partial Occlusions for 3D Object Pose Estimation`. [[PDF](http://arxiv.org/abs/1804.03959)][Read]
 
 >#### 2. Manhardt, F., Kehl, W., Navab, N., & Tombari, F. (2018). `Deep Model-Based 6D Pose Refinement in RGB`. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fabian_Manhardt_Deep_Model-Based_6D_ECCV_2018_paper.pdf)]
@@ -55,18 +56,60 @@
 >#### 9. Alexander Vakhitov, Victor Lempitsky, Yinqiang Zheng. `Stereo relative pose from line and point feature triplets`, 1–16.[[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Alexander_Vakhitov_Stereo_relative_pose_ECCV_2018_paper.pdf)]
 
 
-# ICCV-2017
+## ICCV-2017
 >#### 1. Tjaden, H., Schwanecke, U., & Schömer, E. (2017). `Real-time monocular pose estimation of 3d objects using temporally consistent local color histograms`. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 124–132. [[PDF](https://doi.org/10.1109/ICCV.2017.23)][Read]
 
 >#### 2. Rad, M., & Lepetit, V. (2017). `BB8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects without Using Depth`. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 3848–3856. [[PDF](https://doi.org/10.1109/ICCV.2017.413)][Read]
 
 >#### 3. Kehl, W., Manhardt, F., Tombari, F., Ilic, S., & Navab, N. (2017). `SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again`. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 1530–1538. [[PDF](https://doi.org/10.1109/ICCV.2017.169)][Read]
 
-# others
+## others
 >#### [2018 RSS]. Xiang, Y., Schmidt, T., Narayanan, V., & Fox, D. `PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes`.[[PDF](http://arxiv.org/abs/1711.00199)][Read]
+
+>#### [2016 CVPR] Brachmann, E., Michel, F., Krull, A., Yang, M. Y., Gumhold, S., & Rother, C. (2016). `Uncertainty-Driven 6D Pose Estimation of Objects and Scenes from a Single RGB Image`. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 3364–3372. [[PDF](https://doi.org/10.1109/CVPR.2016.366)][Read]
+
+>#### [2014 ECCV] Brachmann, E., Krull, A., Michel, F., Gumhold, S., Shotton, J., & Rother, C. (2014). `Learning 6D Object Pose Estimation Using 3D Object Coordinates`. Proceedings of European Conference on Computer Vision (ECCV), 26772, 536–551.[[PDF](https://doi.org/10.1007/978-3-319-10605-2{_}35)][Read]
+
+>#### [1994 ECCV] Li, S. Z. (1994). `Markov random field models in computer vision`. Computer Vision - ECCV ’94. Third European Conference on Computer Vision. Proceedings. Vol.II, 2263(4), 361–370.[[PDF](https://doi.org/10.1007/BFb0028368)][Read]
+
+>#### [2016 TPAMI] Liu, Z., Li, X., Luo, P., Loy, C. C., & Tang, X. (2016). `Deep Learning Markov Random Field for Semantic Segmentation`, 1–14. [[PDF](https://doi.org/10.1007/978-3-319-46723-8)][Read]
+
+>#### [2014 arXiv] Simonyan, K., & Zisserman, A. (2014). `Very Deep Convolutional Networks for Large-Scale Image Recognition`, 1–14. [[PDF](https://doi.org/10.1016/j.infsof.2008.09.005)][Read]
+
+>#### [2017 arXiv] Jafari, O. H., Mustikovela, S. K., Pertsch, K., Brachmann, E., & Rother, C. (2017). `The Best of Both Worlds: Learning Geometry-based 6D Object Pose Estimation`. [[PDF](http://arxiv.org/abs/1712.01924)][Read]
+
+>#### [2012 ACCV] Hinterstoisser, S., Lepetit, V., Ilic, S., Holzer, S., Bradski, G., Konolige, K., & Navab, N. (2013). `Model based training, detection and pose estimation of texture-less 3D objects in heavily cluttered scenes`. 7724 LNCS(PART 1), 548–562. [[PDF](https://doi.org/10.1007/978-3-642-37331-2_42)][Read]
+
+>#### [2013 CVPR]Shotton, J., Glocker, B., Zach, C., Izadi, S., Criminisi, A., & Fitzgibbon, A. (2013). `Scene coordinate regression forests for camera relocalization in RGB-D images`. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2930–2937. [[PDF](https://doi.org/10.1109/CVPR.2013.377)]
 
 
 # other related work
+>#### [2007 ICCV] Moreno-noguer, F. (2007). `EPnP: An Accurate O(n) Solution to the PnP Problem`. [[PDF](https://doi.org/10.1109/ICCV.2007.4409116)][Read]
+
+>#### [2005 IT] Wainwright, Martin J., Tommi S. Jaakkola, and Alan S. Willsky. `MAP estimation via agreement on trees: message-passing and linear programming`. IEEE transactions on information theory 51.11 (2005): 3697-3717.[[PDF](http://arxiv.org/abs/cs/0508070)][Read]
+
+>#### [2017 CVPR] Zaki, H. F. M., Shafait, F., & Mian, A. (n.d.). `Modeling Sub-Event Dynamics in First-Person Action Recognition`. Cvpr2017, 7253–7262.[[PDF](https://doi.org/10.1109/CVPR.2017.176)][Read]
+
+>#### [2017 ICML] Khasanova, R., & Frossard, P. (2017). `Graph-based Isometry Invariant Representation Learning`. [[PDF](http://arxiv.org/abs/1703.00356)][Read]
+
+>#### [2018 CVPR] Pinheiro, P. O. (2017). `Unsupervised Domain Adaptation with Similarity Learning`. [[PDF](https://doi.org/10.1109/CVPR.2018.00835)][Read]
+
+>#### [2014 CVPR] Ganin, Y., & Lempitsky, V. (2014). `Unsupervised Domain Adaptation by Backpropagation`. [[PDF](https://doi.org/10.1109/CVPR.2012.6247911)][Read]
+
+>#### [2009 TPAMI] Saxena, A., Sun, M., & Ng, A. Y. (2009). `Make3D: Learning 3D scene structure from a single still image`. IEEE Transactions on Pattern Analysis and Machine Intelligence, 31(5), 824–840.[[PDF](https://doi.org/10.1109/TPAMI.2008.132)]
+
+>#### [1965 OR] Ivănescu, Peter L. `Some network flow problems solved with pseudo-boolean programming`. Operations Research 13.3 (1965): 388-399.[[PDF](https://www.jstor.org/stable/pdf/167803.pdf)][Read]
+
+>#### [2014 STAT] Mehta, Pankaj, and David J. Schwab. `An exact mapping between the Variational Renormalization Group and Deep Learning`. stat 1050 (2014): 14.[[PDF](http://lissalytics.com/static/mehta_exact_mapping.pdf)][Read]
+
+>#### [2017 ICCV] Bertasius, G., Park, H. S., Yu, S. X., & Shi, J. (2016). `Unsupervised Learning of Important Objects from First-Person Videos`. [[PDF](https://doi.org/10.1109/ICCV.2017.216)][Read]
+
+>#### [2008 CVPR] Shotton, J., Johnson, M., & Cipolla, R. (2008). `Semantic Texton Forest for Image Categorization and Segmentation`. Proceedings of the Conference on Computer Vision and Pattern Recognition, 1–8.
+
+>#### [2011 TPAMI] Gall, J., Yao, A., Razavi, N., Van Gool, L., & Lempitsky, V. (2011). `Hough forests for object detection, tracking, and action recognition`. IEEE Transactions on Pattern Analysis and Machine Intelligence, 33(11), 2188–2202. [[PDF](https://doi.org/10.1109/TPAMI.2011.70)]
+
+
+
 
 
 
