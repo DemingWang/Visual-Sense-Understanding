@@ -10,7 +10,7 @@
 
 ## RGB-D methods
 | Methods     |    Feature Used   |Pose Compution | refinement| Learning method
-| ----------- | ----------- | ----------- |----------- |
-|[Branchmann-16](link)| Pixel value | [Kabsch algorithm](https://doi.org/10.1107%2FS0567739478001680)|ICP| Random Forest
-|[Branchmann-14](link)| Pixel value | [Kabsch algorithm](https://doi.org/10.1107%2FS0567739478001680)|ICP| Random Forest
+| ----------- | ----------- | ----------- |----------- |----------- |
+|[Branchmann-16](link)| Pixel value and depth | [Kabsch algorithm](https://doi.org/10.1107%2FS0567739478001680)| energy based| Random Forest
+
 
