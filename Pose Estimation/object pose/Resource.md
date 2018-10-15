@@ -53,4 +53,4 @@
 # ICCV-2017
 >1. Tjaden, H., Schwanecke, U., & Schömer, E. (2017). **Real-time monocular pose estimation of 3d objects using temporally consistent local color histograms**. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 124–132. [[PDF](https://doi.org/10.1109/ICCV.2017.23)][Read]
 
->2. Rad, M., & Lepetit, V. (2017). **BB8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects without Using Depth**. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 3848–3856. [[PDF](https://doi.org/10.1109/ICCV.2017.413)][Read]
+>#### 2. Rad, M., & Lepetit, V. (2017). `BB8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects without Using Depth`. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 3848–3856. [[PDF](https://doi.org/10.1109/ICCV.2017.413)][Read]
