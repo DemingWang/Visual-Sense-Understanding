@@ -7,13 +7,18 @@
 
 2017: [CVPR](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#cvpr-2017), [ICCV](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#iccv-2017)
 
-[others](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#others)
+[others(about object pose estimation)](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#others)
 
 	
-## [Other Related papers](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#other-related-work)
+## [Other Related papers (in other fields)](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#other-related-work)
 #### mathematics:
-#####
+##### [EPnP](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2007-iccv-moreno-noguer-f-2007-epnp-an-accurate-on-solution-to-the-pnp-problem-pdfread)
 
+##### FPV: [1](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2017-cvpr-zaki-h-f-m-shafait-f--mian-a-nd-modeling-sub-event-dynamics-in-first-person-action-recognition-cvpr2017-72537262pdfread), [2](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2017-iccv-bertasius-g-park-h-s-yu-s-x--shi-j-2016-unsupervised-learning-of-important-objects-from-first-person-videos-pdfread)
+
+##### Graph theory: [1](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2005-it-wainwright-martin-j-tommi-s-jaakkola-and-alan-s-willsky-map-estimation-via-agreement-on-trees-message-passing-and-linear-programming-ieee-transactions-on-information-theory-5111-2005-3697-3717pdfread), [2](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2017-icml-khasanova-r--frossard-p-2017-graph-based-isometry-invariant-representation-learning-pdfread),[3](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#1965-or-iv%C4%83nescu-peter-l-some-network-flow-problems-solved-with-pseudo-boolean-programming-operations-research-133-1965-388-399pdfread), [4](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2007-tpami-kolmogorov-v--rother-c-2007-minimizing-nonsubmodular-functions-with-graph-cuts---a-review-ieee-transactions-on-pattern-analysis-and-machine-intelligence-297-12741279-pdf), [5](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2015-cvpr-shekhovtsov-alexander-paul-swoboda-and-bogdan-savchynskyy-maximum-persistency-via-iterative-relaxed-inference-with-graphical-models-proceedings-of-the-ieee-conference-on-computer-vision-and-pattern-recognition-2015pdf)
+
+##### Object detection and segmentation: [1]()
 
 
 	
@@ -73,22 +78,21 @@
 
 >#### [2014 ECCV] Brachmann, E., Krull, A., Michel, F., Gumhold, S., Shotton, J., & Rother, C. (2014). `Learning 6D Object Pose Estimation Using 3D Object Coordinates`. Proceedings of European Conference on Computer Vision (ECCV), 26772, 536–551.[[PDF](https://doi.org/10.1007/978-3-319-10605-2{_}35)][Read]
 
->#### [1994 ECCV] Li, S. Z. (1994). `Markov random field models in computer vision`. Computer Vision - ECCV ’94. Third European Conference on Computer Vision. Proceedings. Vol.II, 2263(4), 361–370.[[PDF](https://doi.org/10.1007/BFb0028368)][Read]
-
->#### [2016 TPAMI] Liu, Z., Li, X., Luo, P., Loy, C. C., & Tang, X. (2016). `Deep Learning Markov Random Field for Semantic Segmentation`, 1–14. [[PDF](https://doi.org/10.1007/978-3-319-46723-8)][Read]
-
->#### [2014 arXiv] Simonyan, K., & Zisserman, A. (2014). `Very Deep Convolutional Networks for Large-Scale Image Recognition`, 1–14. [[PDF](https://doi.org/10.1016/j.infsof.2008.09.005)][Read]
-
 >#### [2017 arXiv] Jafari, O. H., Mustikovela, S. K., Pertsch, K., Brachmann, E., & Rother, C. (2017). `The Best of Both Worlds: Learning Geometry-based 6D Object Pose Estimation`. [[PDF](http://arxiv.org/abs/1712.01924)][Read]
 
 >#### [2012 ACCV] Hinterstoisser, S., Lepetit, V., Ilic, S., Holzer, S., Bradski, G., Konolige, K., & Navab, N. (2013). `Model based training, detection and pose estimation of texture-less 3D objects in heavily cluttered scenes`. 7724 LNCS(PART 1), 548–562. [[PDF](https://doi.org/10.1007/978-3-642-37331-2_42)][Read]
 
->#### [2013 CVPR]Shotton, J., Glocker, B., Zach, C., Izadi, S., Criminisi, A., & Fitzgibbon, A. (2013). `Scene coordinate regression forests for camera relocalization in RGB-D images`. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2930–2937. [[PDF](https://doi.org/10.1109/CVPR.2013.377)]
 
 >#### [2015 ICCV] Krull, Alexander, et al. "`Learning analysis-by-synthesis for 6d pose estimation in rgb-d images`." Proceedings of the IEEE International Conference on Computer Vision. 2015.[[PDF](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Krull_Learning_Analysis-by-Synthesis_for_ICCV_2015_paper.pdf)]
 
 
 # other related work
+>#### [2013 CVPR]Shotton, J., Glocker, B., Zach, C., Izadi, S., Criminisi, A., & Fitzgibbon, A. (2013). `Scene coordinate regression forests for camera relocalization in RGB-D images`. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2930–2937. [[PDF](https://doi.org/10.1109/CVPR.2013.377)]
+
+>#### [2014 arXiv] Simonyan, K., & Zisserman, A. (2014). `Very Deep Convolutional Networks for Large-Scale Image Recognition`, 1–14. [[PDF](https://doi.org/10.1016/j.infsof.2008.09.005)][Read]
+
+>#### [2016 TPAMI] Liu, Z., Li, X., Luo, P., Loy, C. C., & Tang, X. (2016). `Deep Learning Markov Random Field for Semantic Segmentation`, 1–14. [[PDF](https://doi.org/10.1007/978-3-319-46723-8)][Read]
+
 >#### [2007 ICCV] Moreno-noguer, F. (2007). `EPnP: An Accurate O(n) Solution to the PnP Problem`. [[PDF](https://doi.org/10.1109/ICCV.2007.4409116)][Read]
 
 >#### [2005 IT] Wainwright, Martin J., Tommi S. Jaakkola, and Alan S. Willsky. `MAP estimation via agreement on trees: message-passing and linear programming`. IEEE transactions on information theory 51.11 (2005): 3697-3717.[[PDF](http://arxiv.org/abs/cs/0508070)][Read]
@@ -121,7 +125,9 @@
 
 >#### [2018 CVPR] Poier, G., Schinagl, D., & Bischof, H. (2018). `Learning Pose Specific Representations by Predicting Different Views`, 60–69. [[PDF](https://doi.org/10.1109/CVPR.2018.00014)]
 
->#### [2015 ICCV] Crivellaro, A., Rad, M., Verdie, Y., Yi, K. M., Fua, P., & Lepetit, V. (2015). A novel representation of parts for accurate 3d object detection and tracking in monocular images. Proceedings of the IEEE International Conference on Computer Vision, 2015 Inter, 4391–4399. [[PDF](https://doi.org/10.1109/ICCV.2015.499)][Read]
+>#### [2015 ICCV] Crivellaro, A., Rad, M., Verdie, Y., Yi, K. M., Fua, P., & Lepetit, V. (2015). `A novel representation of parts for accurate 3d object detection and tracking in monocular images`. Proceedings of the IEEE International Conference on Computer Vision, 2015 Inter, 4391–4399. [[PDF](https://doi.org/10.1109/ICCV.2015.499)][Read]
+
+>#### [1994 ECCV] Li, S. Z. (1994). `Markov random field models in computer vision`. Computer Vision - ECCV ’94. Third European Conference on Computer Vision. Proceedings. Vol.II, 2263(4), 361–370.[[PDF](https://doi.org/10.1007/BFb0028368)][Read]
 
 
 
