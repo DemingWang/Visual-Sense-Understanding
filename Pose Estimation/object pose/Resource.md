@@ -45,6 +45,15 @@
 ## CVPR-2017
 >#### 1. Michel, F., Kirillov, A., Brachmann, E., Krull, A., Gumhold, S., Savchynskyy, B., & Rother, C.` Global Hypothesis Generation for 6D Object Pose Estimation`, 462–471. [[PDF](https://doi.org/10.1109/CVPR.2017.20)][Read]
 
+>#### 2. Palméf, T., Åström, K., & Frahm, J. M. (2017). The misty three point algorithm for relative pose. Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017, 2017–January, 4551–4559. [[PDF](https://doi.org/10.1109/CVPR.2017.484)]
+
+>#### 3. Kendall, A., & Cipolla, R. (2017). `Geometric loss functions for camera pose regression with deep learning`. Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017, 2017–January, 6555–6564. [[PDF](https://doi.org/10.1109/CVPR.2017.694)]
+
+>#### 4. Wu, Y., Gou, C., & Ji, Q. (2017). `Simultaneous facial landmark detection, pose and deformation estimation under facial occlusion`. Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017, 2017–January, 5719–5728.[[PDF](https://doi.org/10.1109/CVPR.2017.606)]
+
+>#### 5. Krull, Alexander, et al. `"Poseagent: Budget-constrained 6d object pose estimation via reinforcement learning." `Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). Vol. 2. 2017.[[PDF(http://openaccess.thecvf.com/content_cvpr_2017/papers/Krull_PoseAgent_Budget-Constrained_6D_CVPR_2017_paper.pdf)]]
+
+
 
 
 ## ECCV-2018
@@ -99,6 +108,7 @@
 >#### [2018 ICCAR] Vidal, Joel, Chyi-Yeu Lin, and Robert Martí. `"6D pose estimation using an improved method based on point pair features."` 2018 4th International Conference on Control, Automation and Robotics (ICCAR). IEEE, 2018 [[PDF](https://arxiv.org/pdf/1802.08516)]
 
 
+
 # other related work
 >#### [2013 CVPR]Shotton, J., Glocker, B., Zach, C., Izadi, S., Criminisi, A., & Fitzgibbon, A. (2013). `Scene coordinate regression forests for camera relocalization in RGB-D images`. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2930–2937. [[PDF](https://doi.org/10.1109/CVPR.2013.377)]
 
@@ -142,8 +152,7 @@
 
 >#### [1994 ECCV] Li, S. Z. (1994). `Markov random field models in computer vision`. Computer Vision - ECCV ’94. Third European Conference on Computer Vision. Proceedings. Vol.II, 2263(4), 361–370.[[PDF](https://doi.org/10.1007/BFb0028368)][Read]
 
-
-
+>#### [2017 CVPR] Zaki, H. F. M., Shafait, F., Mian, A., Michel, F., Kirillov, A., Brachmann, E., … Soatto, S. (2017). `Seeing Invisible Poses: Estimating 3D Body Pose from Egocentric Video`. Cvpr2017, (6702), 1647–1656.[[PDF](https://doi.org/10.1109/CVPR.2017.380)]
 
 
 
