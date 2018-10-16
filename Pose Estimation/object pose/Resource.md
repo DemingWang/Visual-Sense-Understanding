@@ -51,7 +51,7 @@
 
 >#### 4. Wu, Y., Gou, C., & Ji, Q. (2017). `Simultaneous facial landmark detection, pose and deformation estimation under facial occlusion`. Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017, 2017–January, 5719–5728.[[PDF](https://doi.org/10.1109/CVPR.2017.606)]
 
->#### 5. Krull, Alexander, et al. `"Poseagent: Budget-constrained 6d object pose estimation via reinforcement learning." `Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). Vol. 2. 2017.[[PDF(http://openaccess.thecvf.com/content_cvpr_2017/papers/Krull_PoseAgent_Budget-Constrained_6D_CVPR_2017_paper.pdf)]]
+>#### 5. Krull, Alexander, et al. `"Poseagent: Budget-constrained 6d object pose estimation via reinforcement learning." `Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). Vol. 2. 2017.[[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Krull_PoseAgent_Budget-Constrained_6D_CVPR_2017_paper.pdf)]]
 
 
 
