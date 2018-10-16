@@ -92,7 +92,7 @@
 
 >#### [2016 ECCV] Kehl, Wadim, et al. `"Deep learning of local RGB-D patches for 3D object detection and 6D pose estimation." `European Conference on Computer Vision. Springer, Cham, 2016.[[PDF](https://arxiv.org/pdf/1607.06038)]
 
->#### [2015 IROS] Hodaň, Tomáš, et al. `"Detection and fine 3D pose estimation of texture-less objects in RGB-D images." `Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on. IEEE, 2015.[[PDF](ftp://cmp.felk.cvut.cz/pub/cvl/articles/hodan/Hodan-IROS-2015.pdf)]
+>#### [2015 IROS] Hodaň, Tomáš, et al. `"Detection and fine 3D pose estimation of texture-less objects in RGB-D images." `Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on. IEEE, 2015.[[PDF](https://www.researchgate.net/profile/Xenophon_Zabulis/publication/308846432_Detection_and_fine_3D_pose_estimation_of_texture-less_objects_in_RGB-D_images/links/580ba7a808aecba93500d02a.pdf)]
 
 >#### [2018 ICCAR] Vidal, Joel, Chyi-Yeu Lin, and Robert Martí. `"6D pose estimation using an improved method based on point pair features."` 2018 4th International Conference on Control, Automation and Robotics (ICCAR). IEEE, 2018 [[PDF](https://arxiv.org/pdf/1802.08516)]
 
