@@ -1,6 +1,6 @@
 # Object pose
 ## RGB methods
-| Methods     |    BackBone  | Network Output|Pose Compution/refinement | Image| Potential issue
+| Methods     |    BackBone  | Network Output|Pose Compution/refinement | Image| Potential issues
 | ----------- | ----------- | -----------   | ----------- |----------- |----------- |
 |   [RAD-2017](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2-rad-m--lepetit-v-2017-bb8-a-scalable-accurate-robust-to-partial-occlusion-method-for-predicting-the-3d-poses-of-challenging-objects-without-using-depth-proceedings-of-the-ieee-international-conference-on-computer-vision-2017octob-38483856-pdfread) | [VGG 16](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)  | 8 corners of the projected 3D bounding box|[PnP](https://en.wikipedia.org/wiki/Perspective-n-Point) | real| ...
 |  [TEKIN-2018](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#1-tekin-b-sinha-s-n--fua-p-real-time-seamless-single-shot-6d-object-pose-predictionpdfread)  |[YOLO V2](https://pjreddie.com/darknet/yolo/) |8 corners and 3D centroid projection |PnP| real
@@ -9,8 +9,15 @@
 |FMAP[[RAD-2018](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2-rad-m-oberweger-m--lepetit-v-feature-mapping-for-learning-fast-and-accurate-3d-pose-inference-from-synthetic-images-pdfread)]|VGG 16|8 corners of the projected 3D bounding box| PnP |real and synthetic
 
 ## RGB-D methods
-| Methods     |    Feature Used   |Pose Compution | refinement| Learning method
-| ----------- | ----------- | ----------- |----------- |----------- |
-|[Branchmann-16](link)| Pixel value and depth | [Kabsch algorithm](https://doi.org/10.1107%2FS0567739478001680)| energy based| Random Forest
+| Methods     |    Feature Used   |Pose Compution | Refinement| Learning method| Potential issues
+| ----------- | ----------- | ----------- |----------- |----------- |----------- |
+|[Branchmann-16](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2016-cvpr-brachmann-e-michel-f-krull-a-yang-m-y-gumhold-s--rother-c-2016-uncertainty-driven-6d-pose-estimation-of-objects-and-scenes-from-a-single-rgb-image-2016-ieee-conference-on-computer-vision-and-pattern-recognition-cvpr-33643372-pdfread)| Pixel value and depth | [Kabsch algorithm](https://doi.org/10.1107%2FS0567739478001680)| energy based| Random Forest
+|[Kehl-16](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2016-eccv-kehl-wadim-et-al-deep-learning-of-local-rgb-d-patches-for-3d-object-detection-and-6d-pose-estimationeuropean-conference-on-computer-vision-springer-cham-2016pdf)|local patch and depth| codebook+regression |ICP |Deep learning(Caffe)
+|[Hodan-15](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2015-iros-hoda%C5%88-tom%C3%A1%C5%A1-et-al-detection-and-fine-3d-pose-estimation-of-texture-less-objects-in-rgb-d-imagesintelligent-robots-and-systems-iros-2015-ieeersj-international-conference-on-ieee-2015pdf)|Template(normals, image gradients, depth, color)|template matching|[PSO](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=488968)|template generateion
 
 
+## Depth only methods
+| Methods     |    Feature Used   |Pose Compution | Refinement| Learning method| Potential issues
+| ----------- | ----------- | ----------- |----------- |----------- |----------- |
+|[Vidal-18](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2018-iccar-vidal-joel-chyi-yeu-lin-and-robert-mart%C3%AD-6d-pose-estimation-using-an-improved-method-based-on-point-pair-features2018-4th-international-conference-on-control-automation-and-robotics-iccar-ieee-2018-pdf) |[PPF](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2010-cvpr-drost-bertram-et-al-model-globally-match-locally-efficient-and-robust-3d-object-recognition-computer-vision-and-pattern-recognition-cvpr-2010-ieee-conference-on-ieee-2010pdf)|voting and cluster| | | no color information|
+|[Buch-17](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#4-buch-anders-glent-lilita-kiforenko-and-dirk-kraft-rotational-subgroup-voting-and-pose-clustering-for-robust-3d-object-recognition-computer-vision-iccv-2017-ieee-international-conference-on-ieee-2017pdf)|3D local feature|voting and cluster|ICP|| |
