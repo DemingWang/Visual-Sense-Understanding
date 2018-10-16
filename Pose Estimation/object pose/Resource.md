@@ -88,6 +88,14 @@
 
 >#### [2015 ICCV] Krull, Alexander, et al. "`Learning analysis-by-synthesis for 6d pose estimation in rgb-d images`." Proceedings of the IEEE International Conference on Computer Vision. 2015.[[PDF](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Krull_Learning_Analysis-by-Synthesis_for_ICCV_2015_paper.pdf)]
 
+>#### [2010 CVPR] Drost, Bertram, et al. `"Model globally, match locally: Efficient and robust 3D object recognition."` Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on. Ieee, 2010.[[PDF](http://far.in.tum.de/pub/drost2010CVPR/drost2010CVPR.pdf)]
+
+>#### [2016 ECCV] Kehl, Wadim, et al. `"Deep learning of local RGB-D patches for 3D object detection and 6D pose estimation." `European Conference on Computer Vision. Springer, Cham, 2016.[[PDF](https://arxiv.org/pdf/1607.06038)]
+
+>#### [2015 IROS] Hodaň, Tomáš, et al. `"Detection and fine 3D pose estimation of texture-less objects in RGB-D images." `Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on. IEEE, 2015.[[PDF](ftp://cmp.felk.cvut.cz/pub/cvl/articles/hodan/Hodan-IROS-2015.pdf)]
+
+>#### [2018 ICCAR] Vidal, Joel, Chyi-Yeu Lin, and Robert Martí. `"6D pose estimation using an improved method based on point pair features."` 2018 4th International Conference on Control, Automation and Robotics (ICCAR). IEEE, 2018 [[PDF](https://arxiv.org/pdf/1802.08516)]
+
 
 # other related work
 >#### [2013 CVPR]Shotton, J., Glocker, B., Zach, C., Izadi, S., Criminisi, A., & Fitzgibbon, A. (2013). `Scene coordinate regression forests for camera relocalization in RGB-D images`. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2930–2937. [[PDF](https://doi.org/10.1109/CVPR.2013.377)]
