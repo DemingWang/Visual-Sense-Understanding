@@ -74,6 +74,8 @@
 
 >#### 3. Kehl, W., Manhardt, F., Tombari, F., Ilic, S., & Navab, N. (2017). `SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again`. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 1530–1538. [[PDF](https://doi.org/10.1109/ICCV.2017.169)][Read]
 
+>#### 4. Buch, Anders Glent, Lilita Kiforenko, and Dirk Kraft. `"Rotational Subgroup Voting and Pose Clustering for Robust 3D Object Recognition."` Computer Vision (ICCV), 2017 IEEE International Conference on. IEEE, 2017.[[PDF](https://arxiv.org/pdf/1709.02142)]
+
 ## others
 >#### [2018 RSS]. Xiang, Y., Schmidt, T., Narayanan, V., & Fox, D. `PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes`.[[PDF](http://arxiv.org/abs/1711.00199)][Read]
 
