@@ -11,7 +11,7 @@
 
 	
 ## [Other Related papers (in other fields)](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#other-related-work)
-### [Occlusion](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#occlusion)
+### [Occlusion](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#occlusion-1)
 
 ### Relevant
 
