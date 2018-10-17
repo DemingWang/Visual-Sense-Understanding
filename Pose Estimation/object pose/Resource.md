@@ -173,4 +173,13 @@
 
 >#### Yang Wang, Yi Yang, Zhenheng Yang, Liang Zhao, Peng Wang, Wei Xu. `Occlusion Aware Unsupervised Learning of Optical Flow`.[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Occlusion_Aware_Unsupervised_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3285-supp.pdf)]
 
+### ECCV 2018
+>#### Chunluan Zhou, Junsong Yuan.`Bi-box Regression for Pedestrian Detection and Occlusion Estimation`. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/CHUNLUAN_ZHOU_Bi-box_Regression_for_ECCV_2018_paper.pdf)]
 
+>#### Shifeng Zhang, Longyin Wen, Xiao Bian, Zhen Lei, Stan Z. Li. `Occlusion-aware R-CNN: Detecting Pedestrians in a Crowd`. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shifeng_Zhang_Occlusion-aware_R-CNN_Detecting_ECCV_2018_paper.pdf)]
+
+>#### Qi Ye, Tae-Kyun Kim. `Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network`. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Qi_Ye_Occlusion-aware_Hand_Pose_ECCV_2018_paper.pdf)]
+
+>#### Joel Janai, Fatma Guney, Anurag Ranjan, Michael Black, Andreas Geiger. `Unsupervised Learning of Multi-Frame Optical Flow with Occlusions`. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Joel_Janai_Unsupervised_Learning_of_ECCV_2018_paper.pdf)]
+
+>#### Eddy Ilg, Tonmoy Saikia, Margret Keuper, Thomas Brox. `Occlusions, Motion and Depth Boundaries with a Generic Network for Disparity, Optical Flow or Scene Flow Estimation`. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Eddy_Ilg_Occlusions_Motion_and_ECCV_2018_paper.pdf)]
