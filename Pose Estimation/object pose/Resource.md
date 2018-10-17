@@ -11,8 +11,11 @@
 
 	
 ## [Other Related papers (in other fields)](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#other-related-work)
-#### mathematics:
-##### [EPnP](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2007-iccv-moreno-noguer-f-2007-epnp-an-accurate-on-solution-to-the-pnp-problem-pdfread)
+### [Occlusion](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#occlusion)
+
+### Relevant
+
+##### EPnP: [1](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2007-iccv-moreno-noguer-f-2007-epnp-an-accurate-on-solution-to-the-pnp-problem-pdfread)
 
 ##### FPV: [1](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2017-cvpr-zaki-h-f-m-shafait-f--mian-a-nd-modeling-sub-event-dynamics-in-first-person-action-recognition-cvpr2017-72537262pdfread), [2](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2017-iccv-bertasius-g-park-h-s-yu-s-x--shi-j-2016-unsupervised-learning-of-important-objects-from-first-person-videos-pdfread)
 
