@@ -154,7 +154,20 @@
 
 >#### [2017 CVPR] Zaki, H. F. M., Shafait, F., Mian, A., Michel, F., Kirillov, A., Brachmann, E., … Soatto, S. (2017). `Seeing Invisible Poses: Estimating 3D Body Pose from Egocentric Video`. Cvpr2017, (6702), 1647–1656.[[PDF](https://doi.org/10.1109/CVPR.2017.380)]
 
+## occlusion
+### CVPR 2018
+>#### Subeesh Vasu, Mahesh Mohan M. R., A. N. Rajagopalan. `Occlusion-Aware Rolling Shutter Rectification of 3D Scenes`[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/1800-supp.pdf)]
 
+>#### Junhyug Noh, Soochan Lee, Beomsu Kim, Gunhee Kim. `Improving Occlusion and Hard Negative Handling for Single-Stage Pedestrian Detectors`[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Noh_Improving_Occlusion_and_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/0620-supp.pdf)]
 
+>#### Zhishuai Zhang, Cihang Xie, Jianyu Wang, Lingxi Xie, Alan L. Yuille. `DeepVoting: A Robust and Explainable Deep Network for Semantic Part Detection Under Partial Occlusion`.[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_DeepVoting_A_Robust_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/1564-supp.pdf)]
+
+>#### Simon Korman, Mark Milam, Stefano Soatto.`OATM: Occlusion Aware Template Matching by Consensus Set Maximization`.[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Korman_OATM_Occlusion_Aware_CVPR_2018_paper.pdf)]
+
+>#### Anh Tuấn Trần, Tal Hassner, Iacopo Masi, Eran Paz, Yuval Nirkin, Gérard Medioni.`Extreme 3D Face Reconstruction: Seeing Through Occlusions`.[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tran_Extreme_3D_Face_CVPR_2018_paper.pdf)]
+
+>#### Hendrik Schilling, Maximilian Diebold, Carsten Rother, Bernd Jähne.`Trust Your Model: Light Field Depth Estimation With Inline Occlusion Handling`.[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Schilling_Trust_Your_Model_CVPR_2018_paper.pdf)]
+
+>#### Yang Wang, Yi Yang, Zhenheng Yang, Liang Zhao, Peng Wang, Wei Xu. `Occlusion Aware Unsupervised Learning of Optical Flow`.[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Occlusion_Aware_Unsupervised_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3285-supp.pdf)]
 
 
