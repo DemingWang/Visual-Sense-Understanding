@@ -78,6 +78,7 @@
 
 >#### 9. Alexander Vakhitov, Victor Lempitsky, Yinqiang Zheng. `Stereo relative pose from line and point feature triplets`, 1–16.[[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Alexander_Vakhitov_Stereo_relative_pose_ECCV_2018_paper.pdf)]
 
+>#### 10. Hodan, T., Kouskouridas, R., Kim, T.-K., Tombari, F., Bekris, K., Drost, B., … Matas, J. (2018). `A Summary of the 4th International Workshop on Recovering 6D Object Pose`. [[PDF](https://arxiv.org/pdf/1810.03758.pdf)]
 
 ## ICCV-2017
 >#### 1. Tjaden, H., Schwanecke, U., & Schömer, E. (2017). `Real-time monocular pose estimation of 3d objects using temporally consistent local color histograms`. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 124–132. [[PDF](https://doi.org/10.1109/ICCV.2017.23)][Read]
