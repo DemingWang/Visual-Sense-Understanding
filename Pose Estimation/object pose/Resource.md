@@ -27,7 +27,7 @@
 
 >#### 2. Rad, M., Oberweger, M., & Lepetit, V. `Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images`. [[PDF](https://doi.org/10.1109/CVPR.2018.00490)][Read]
 
->#### 3. Georgakis, G., Karanam, S., Wu, Z., Ernst, J., & Kosecka, J. `End-to-end learning of keypoint detector and descriptor for pose invariant 3D matching`, 1965–1973.[[PDF](https://doi.org/10.1109/CVPR.2018.00210)]
+>#### 3. Georgakis, G., Karanam, S., Wu, Z., Ernst, J., & Kosecka, J. `End-to-end learning of keypoint detector and descriptor for pose invariant 3D matching`, 1965–1973.[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Georgakis_End-to-End_Learning_of_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/2411-supp.pdf)]
 
 >#### 4. Grabner, A., Roth, P. M., & Lepetit, V. (2018). `3D Pose Estimation and 3D Model Retrieval for Objects in the Wild`. Cvpr, 3022–3031.[[PDF](https://doi.org/10.3217/978-3-85125-603-1-26)]
 
