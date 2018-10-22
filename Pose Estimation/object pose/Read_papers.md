@@ -25,5 +25,7 @@
 
 
 ## Occlusion methods
-
+| Types     |    Methods   |Input | Learning method| Note
+| ----------- | ----------- | ----------- |----------- |----------- |
+|Patched based | [Kehl-16]()| | |  | 
 
