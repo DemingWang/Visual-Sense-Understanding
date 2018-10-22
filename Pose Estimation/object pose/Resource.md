@@ -82,6 +82,12 @@
 
 >#### 11. Martin Sundermeyer, Zoltan-Csaba Marton, Maximilian Durner, Manuel Brucker, Rudolph Triebel. `Implicit 3D Orientation Learning for 6D Object Detection from RGB Images`. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Martin_Sundermeyer_Implicit_3D_Orientation_ECCV_2018_paper.pdf)]
 
+>#### 12. Greire Payen de La Garanderie, Amir Atapour Abarghouei, Toby P. Breckon. `Eliminating the Blind Spot: Adapting 3D Object Detection and Monocular Depth Estimation to 360° Panoramic Imagery`. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Gregoire_Payen_de_La_Garanderie_Eliminating_the_Dreaded_ECCV_2018_paper.pdf)]
+
+>#### 13. Ming Liang, Bin Yang, Shenlong Wang, Raquel Urtasun. `Deep Continuous Fusion for Multi-Sensor 3D Object Detection`. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf)]
+
+>#### 14. Peiliang Li, Tong Qin, and Shaojie Shen. `Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving`. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Peiliang_LI_Stereo_Vision-based_Semantic_ECCV_2018_paper.pdf)]
+
 ## ICCV-2017
 >#### 1. Tjaden, H., Schwanecke, U., & Schömer, E. (2017). `Real-time monocular pose estimation of 3d objects using temporally consistent local color histograms`. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 124–132. [[PDF](https://doi.org/10.1109/ICCV.2017.23)][Read]
 
