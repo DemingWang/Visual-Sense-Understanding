@@ -25,7 +25,13 @@
 
 
 ## Occlusion methods
-| Types     |    Methods   |Input | Learning method| Note
+| Types     |    Methods   |Input | Learning method| Note|
 | ----------- | ----------- | ----------- |----------- |----------- |
-|Patched based | [Kehl-16]()| | |  | 
+|Patched based| [Kehl-16](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2016-eccv-kehl-wadim-et-al-deep-learning-of-local-rgb-d-patches-for-3d-object-detection-and-6d-pose-estimation-european-conference-on-computer-vision-springer-cham-2016pdf)|RGB-D|code_book+Deep learning |  |
+| p |[Oberweger-18](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#1-oberweger-m-rad-m--lepetit-v-2018making-deep-heatmaps-robust-to-partial-occlusions-for-3d-object-pose-estimation-pdfread)|RGB| Deep learning| |
+| p |[Xiang-18](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2018-rss-xiang-y-schmidt-t-narayanan-v--fox-d-posecnn-a-convolutional-neural-network-for-6d-object-pose-estimation-in-cluttered-scenespdfread)| RGB|Deep learning| |
+|Score based |[Vidal-18 ](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2018-iccar-vidal-joel-chyi-yeu-lin-and-robert-mart%C3%AD-6d-pose-estimation-using-an-improved-method-based-on-point-pair-features2018-4th-international-conference-on-control-automation-and-robotics-iccar-ieee-2018-pdf)|Depth|voting |3D local feature 
+|  |[Branchmann-16](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2016-cvpr-brachmann-e-michel-f-krull-a-yang-m-y-gumhold-s--rother-c-2016-uncertainty-driven-6d-pose-estimation-of-objects-and-scenes-from-a-single-rgb-image-2016-ieee-conference-on-computer-vision-and-pattern-recognition-cvpr-33643372-pdfread)| RGB-D|Random Forest
+|  |[Hodan-15](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2015-iros-hoda%C5%88-tom%C3%A1%C5%A1-et-al-detection-and-fine-3d-pose-estimation-of-texture-less-objects-in-rgb-d-images-intelligent-robots-and-systems-iros-2015-ieeersj-international-conference-on-ieee-2015pdf)| RGB-D|Templates 
+
 
