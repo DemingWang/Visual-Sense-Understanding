@@ -42,6 +42,9 @@
 
 >#### 5. Krull, Alexander, et al. `"Poseagent: Budget-constrained 6d object pose estimation via reinforcement learning." `Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). Vol. 2. 2017.[[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Krull_PoseAgent_Budget-Constrained_6D_CVPR_2017_paper.pdf)]]
 
+>#### 6. Denis Tome, Chris Russell, Lourdes Agapito. `Lifting From the Deep: Convolutional 3D Pose Estimation From a Single Image`. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tome_Lifting_From_the_CVPR_2017_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Tome_Lifting_From_the_2017_CVPR_supplemental.pdf)][[Poster](http://openaccess.thecvf.com/content_cvpr_2017/poster/909_POSTER.pdf)]
+
+
 
 
 
@@ -82,6 +85,11 @@
 >#### 3. Kehl, W., Manhardt, F., Tombari, F., Ilic, S., & Navab, N. (2017). `SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again`. Proceedings of the IEEE International Conference on Computer Vision, 2017–Octob, 1530–1538. [[PDF](https://doi.org/10.1109/ICCV.2017.169)][Read]
 
 >#### 4. Buch, Anders Glent, Lilita Kiforenko, and Dirk Kraft. `"Rotational Subgroup Voting and Pose Clustering for Robust 3D Object Recognition."` Computer Vision (ICCV), 2017 IEEE International Conference on. IEEE, 2017.[[PDF](https://arxiv.org/pdf/1709.02142)]
+
+>#### 5. Viktor Larsson, Zuzana Kukelova, Yinqiang Zheng. `Making Minimal Solvers for Absolute Pose Estimation Compact and Robust`. [[PDF](http://openaccess.thecvf.com/content_ICCV_2017/papers/Larsson_Making_Minimal_Solvers_ICCV_2017_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Larsson_Making_Minimal_Solvers_ICCV_2017_supplemental.pdf)]
+
+>#### 6. Vassileios Balntas, Andreas Doumanoglou, Caner Sahin, Juil Sock, Rigas Kouskouridas, Tae-Kyun Kim. `Pose Guided RGBD Feature Learning for 3D Object Pose Estimation`.[[PDF](http://openaccess.thecvf.com/content_ICCV_2017/papers/Balntas_Pose_Guided_RGBD_ICCV_2017_paper.pdf)]
+
 
 ## others
 >#### [2018 RSS]. Xiang, Y., Schmidt, T., Narayanan, V., & Fox, D. `PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes`.[[PDF](http://arxiv.org/abs/1711.00199)][Read][[Code](https://github.com/yuxng/PoseCNN)]
