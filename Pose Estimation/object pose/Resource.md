@@ -44,6 +44,9 @@
 
 >#### 6. Denis Tome, Chris Russell, Lourdes Agapito. `Lifting From the Deep: Convolutional 3D Pose Estimation From a Single Image`. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tome_Lifting_From_the_CVPR_2017_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Tome_Lifting_From_the_2017_CVPR_supplemental.pdf)][[Poster](http://openaccess.thecvf.com/content_cvpr_2017/poster/909_POSTER.pdf)]
 
+>#### 7. Arsalan Mousavian, Dragomir Anguelov, John Flynn, Jana Kosecka. `3D Bounding Box Estimation Using Deep Learning and Geometry`.[[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Mousavian_3D_Bounding_Box_CVPR_2017_paper.pdf)]
+
+>#### 8. Zhuo Deng, Longin Jan Latecki. `Amodal Detection of 3D Objects: Inferring 3D Bounding Boxes From 2D Ones in RGB-Depth Images`. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Deng_Amodal_Detection_of_CVPR_2017_paper.pdf)]
 
 
 
