@@ -60,7 +60,7 @@
 	
 >#### 3. T. Hodan F. Michel, E. B. W. K. A. B. D. K. B. D. J. V. S. I. C. S. F. M. F. T. T. K. J. M. C. R. (2018). `BOP: Benchmark for 6D Object Pose Estimation. European Conference on Computer Vision`. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tomas_Hodan_PESTO_6D_Object_ECCV_2018_paper.pdf)][Read]
 
->#### 4. Li, C., Bai, J., & Hager, G. D. (2018). `A Unified Framework for Multi-View Multi-Class Object Pose Estimation`, 1(c). [[PDF](http://arxiv.org/abs/1803.08103)][[SUPP](http://www.cs.jhu.edu/~cli53/papers/supp_chi_eccv18.pdf)][Read]
+>#### 4. Li, C., Bai, J., & Hager, G. D. (2018). `A Unified Framework for Multi-View Multi-Class Object Pose Estimation`, 1(c). [[PDF](https://arxiv.org/pdf/1803.08103.pdf)][[SUPP](http://www.cs.jhu.edu/~cli53/papers/supp_chi_eccv18.pdf)][Read]
 
 >#### 5. Li, Y., Wang, G., Ji, X., Xiang, Y., & Fox, D. (2018). `DeepIM: Deep Iterative Matching for 6D Pose Estimation`.[[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Li_DeepIM_Deep_Iterative_ECCV_2018_paper.pdf)][Read][[Code](https://github.com/liyi14/mx-DeepIM)]
 
