@@ -165,6 +165,9 @@
 
 >#### [2017 CVPR] Zaki, H. F. M., Shafait, F., Mian, A., Michel, F., Kirillov, A., Brachmann, E., … Soatto, S. (2017). `Seeing Invisible Poses: Estimating 3D Body Pose from Egocentric Video`. Cvpr2017, (6702), 1647–1656.[[PDF](https://doi.org/10.1109/CVPR.2017.380)]
 
+>#### [2017 arXiv] Liang-Chieh Chen, George Papandreou, Florian Schroff, Hartwig Adam. `
+Rethinking Atrous Convolution for Semantic Image Segmentation`. [[PDF](https://arxiv.org/pdf/1706.05587.pdf)]
+
 ## occlusion
 ### CVPR 2018
 >#### Subeesh Vasu, Mahesh Mohan M. R., A. N. Rajagopalan. `Occlusion-Aware Rolling Shutter Rectification of 3D Scenes`[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/1800-supp.pdf)]
