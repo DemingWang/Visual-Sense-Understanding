@@ -36,3 +36,9 @@
 |Learning based|[DeepIM-18](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#5-li-y-wang-g-ji-x-xiang-y--fox-d-2018-deepim-deep-iterative-matching-for-6d-pose-estimationpdfreadcode)|RGB with occlusion| Deep learning|
 
 
+## Algorithm performance
+| Methods|Learning methods | [LineMoD](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2012-accv-hinterstoisser-s-lepetit-v-ilic-s-holzer-s-bradski-g-konolige-k--navab-n-2013-model-based-training-detection-and-pose-estimation-of-texture-less-3d-objects-in-heavily-cluttered-scenes-7724-lncspart-1-548562-pdfread)  |[LineMod-O](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2015-iccv-krull-alexander-et-al-learning-analysis-by-synthesis-for-6d-pose-estimation-in-rgb-d-images-proceedings-of-the-ieee-international-conference-on-computer-vision-2015pdf) | [YCB_Video](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2018-rss-xiang-y-schmidt-t-narayanan-v--fox-d-posecnn-a-convolutional-neural-network-for-6d-object-pose-estimation-in-cluttered-scenespdfreadcode)| Note| 
+| -------- | -------- | ---------   | -------- |------ |-------- |
+|[GF_PPF](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2016-eccv-hinterstoisser-stefan-et-al-going-further-with-point-pair-features-european-conference-on-computer-vision-springer-cham-2016pdf)|voting|98.6%|76.3%|no report| |
+
+
