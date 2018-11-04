@@ -44,5 +44,6 @@
 |[Krull-15](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2015-iccv-krull-alexander-et-al-learning-analysis-by-synthesis-for-6d-pose-estimation-in-rgb-d-images-proceedings-of-the-ieee-international-conference-on-computer-vision-2015pdf)|DL+RF|no report| 70.3%| no report|RGB-D|
 |[PoseCNN+ICP](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2018-rss-xiang-y-schmidt-t-narayanan-v--fox-d-posecnn-a-convolutional-neural-network-for-6d-object-pose-estimation-in-cluttered-scenespdfreadcode)|DeepLearning|62.7%(pose2) | 78.0%(pose2)|93.0%(pose2)|RGB-D|
 |[Brachmann-14](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2014-eccv-brachmann-e-krull-a-michel-f-gumhold-s-shotton-j--rother-c-2014-learning-6d-object-pose-estimation-using-3d-object-coordinates-proceedings-of-european-conference-on-computer-vision-eccv-26772-536551pdfread)|RF |86.1%(pose2)|56.6%(pose2)|no report|RGB-D|
+|[DeepHeatMaps](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#1-oberweger-m-rad-m--lepetit-v-2018making-deep-heatmaps-robust-to-partial-occlusions-for-3d-object-pose-estimation-pdfread)|DeepLearning|No report|28.7%(pose2);55.9%(2dp)
 
 
