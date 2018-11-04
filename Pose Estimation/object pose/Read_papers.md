@@ -48,7 +48,6 @@
 |[PoseCNN](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2018-rss-xiang-y-schmidt-t-narayanan-v--fox-d-posecnn-a-convolutional-neural-network-for-6d-object-pose-estimation-in-cluttered-scenespdfreadcode)|DeepLearning|19.4%(pose1);62.7%(pose2);70.2%(2dp)| 17.2%(2dp);24.9%(pose2)|75.9%(AUC)|RGB|RSS-2018|
 |[BB8](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2-rad-m--lepetit-v-2017-bb8-a-scalable-accurate-robust-to-partial-occlusion-method-for-predicting-the-3d-poses-of-challenging-objects-without-using-depth-proceedings-of-the-ieee-international-conference-on-computer-vision-2017octob-38483856-pdfread)|DeepLearning|89.3%(2dp);62.7%(pose2);69.0%(pose1)|7.6%(2dp)| no report|RGB|ICCV-2017|
 |[Fmap](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#2-rad-m-oberweger-m--lepetit-v-feature-mapping-for-learning-fast-and-accurate-3d-pose-inference-from-synthetic-images-pdfread)|DeepLearning|95.4%(2dp);78.7%(pose2);80.1%(pose1)|no report| no report|RGB|CVPR-2018|
-
-
+|[Seemless](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#1-tekin-b-sinha-s-n--fua-p-real-time-seamless-single-shot-6d-object-pose-predictionpdfreadcode)|DeepLearing|90.37%(2dp);55.95%(pose2)|no report|no report|RGB|CVPR-2018|
 
 
