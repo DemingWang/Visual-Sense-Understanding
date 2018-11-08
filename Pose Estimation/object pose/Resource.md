@@ -171,6 +171,10 @@
 
 >#### [2016 IJCV] Guo, Yulan, et al. `"A comprehensive performance evaluation of 3D local feature descriptors."` International Journal of Computer Vision 116.1 (2016): 66-89. [[PDF](https://link.springer.com/content/pdf/10.1007%2Fs11263-015-0824-y.pdf)]
 
+>#### [2018 CVPR] Haowen Deng, Tolga Birdal, Slobodan Ilic, `PPFNet: Global Context Aware Local Features for Robust 3D Point Matching`.[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_PPFNet_Global_Context_CVPR_2018_paper.pdf)]
+
+>#### [2018 ECCV] Haowen Deng, Tolga Birdal, Slobodan Ilic,`PPF-FoldNet: Unsupervised Learning of Rotation Invariant 3D Local Descriptors`.[[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tolga_Birdal_PPF-FoldNet_Unsupervised_Learning_ECCV_2018_paper.pdf)]
+
 ## occlusion
 ### CVPR 2018
 >#### Subeesh Vasu, Mahesh Mohan M. R., A. N. Rajagopalan. `Occlusion-Aware Rolling Shutter Rectification of 3D Scenes`[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/1800-supp.pdf)]
