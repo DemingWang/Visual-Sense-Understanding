@@ -176,6 +176,10 @@
 
 >#### [2018 ECCV] Haowen Deng, Tolga Birdal, Slobodan Ilic,`PPF-FoldNet: Unsupervised Learning of Rotation Invariant 3D Local Descriptors`.[[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tolga_Birdal_PPF-FoldNet_Unsupervised_Learning_ECCV_2018_paper.pdf)]
 
+>#### [2017 CVPR] Charles R. Qi, Hao Su, Kaichun Mo, Leonidas J. Guibas. `PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation`[[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Qi_PointNet_Deep_Learning_2017_CVPR_supplemental.pdf)][[Code](https://github.com/charlesq34/pointnet)][READ]
+
+>#### [2018 CVPR] Yaoqing Yang, Chen Feng, Yiru Shen, Dong Tian. `FoldingNet: Point Cloud Auto-Encoder via Deep Grid Deformation`[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/1129-supp.pdf)][[CODE](http://www.merl.com/research/?research=license-request&sw=FoldingNet)][READ]
+
 ## occlusion
 ### CVPR 2018
 >#### Subeesh Vasu, Mahesh Mohan M. R., A. N. Rajagopalan. `Occlusion-Aware Rolling Shutter Rectification of 3D Scenes`[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/1800-supp.pdf)]
