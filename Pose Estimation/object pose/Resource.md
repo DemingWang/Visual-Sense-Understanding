@@ -179,6 +179,8 @@
 
 >#### [2018 CVPR] Yaoqing Yang, Chen Feng, Yiru Shen, Dong Tian. `FoldingNet: Point Cloud Auto-Encoder via Deep Grid Deformation`[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/1129-supp.pdf)][[CODE](http://www.merl.com/research/?research=license-request&sw=FoldingNet)][READ]
 
+>#### [2018 ECCV] Weiyue Wang, Ulrich Neumann. `Depth-aware CNN for RGB-D Segmentation`[[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Weiyue_Wang_Depth-aware_CNN_for_ECCV_2018_paper.pdf)]
+
 ## occlusion
 ### CVPR 2018
 >#### Subeesh Vasu, Mahesh Mohan M. R., A. N. Rajagopalan. `Occlusion-Aware Rolling Shutter Rectification of 3D Scenes`[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/1800-supp.pdf)]
