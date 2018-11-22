@@ -125,7 +125,7 @@
 # other related work
 >#### [2013 CVPR]Shotton, J., Glocker, B., Zach, C., Izadi, S., Criminisi, A., & Fitzgibbon, A. (2013). `Scene coordinate regression forests for camera relocalization in RGB-D images`. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2930–2937. [[PDF](https://doi.org/10.1109/CVPR.2013.377)]
 
->#### [2014 arXiv] Simonyan, K., & Zisserman, A. (2014). `Very Deep Convolutional Networks for Large-Scale Image Recognition`, 1–14. [[PDF](https://doi.org/10.1016/j.infsof.2008.09.005)][Read]
+>#### [2014 arXiv] Simonyan, K., & Zisserman, A. (2014). `Very Deep Convolutional Networks for Large-Scale Image Recognition`, 1–14. [[PDF](https://arxiv.org/pdf/1409.1556.pdf)][Read]
 
 >#### [2016 TPAMI] Liu, Z., Li, X., Luo, P., Loy, C. C., & Tang, X. (2016). `Deep Learning Markov Random Field for Semantic Segmentation`, 1–14. [[PDF](https://doi.org/10.1007/978-3-319-46723-8)][Read]
 
