@@ -120,6 +120,8 @@
 >#### [2018 ICCAR] Vidal, Joel, Chyi-Yeu Lin, and Robert Martí. `"6D pose estimation using an improved method based on point pair features."` 2018 4th International Conference on Control, Automation and Robotics (ICCAR). IEEE, 2018 [[PDF](https://arxiv.org/pdf/1802.08516)]
 
  >#### [2016 ECCV] Hinterstoisser, Stefan, et al. `"Going further with point pair features." European Conference on Computer Vision. Springer, Cham`, 2016.[[PDF](https://arxiv.org/pdf/1711.04061)]
+ 
+ >#### [2018 CORL]Jonathan Tremblay, Thang To, Balakumar Sundaralingam, Yu Xiang, Dieter Fox, Stan Birchfield. `Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects` 2018.[[PDF](https://arxiv.org/pdf/1809.10790.pdf)][[CODE](https://github.com/NVlabs/Deep_Object_Pose)]
 
 
 # other related work
