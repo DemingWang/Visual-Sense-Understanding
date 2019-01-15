@@ -185,6 +185,16 @@
 
 >#### [2018 CVRR] Charles R. Qi, Wei Liu, Chenxia Wu, Hao Su, Leonidas J. Guibas. `Frustum PointNets for 3D Object Detection From RGB-D Data`.[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Frustum_PointNets_for_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/0019-supp.pdf)][[Code](https://github.com/charlesq34/frustum-pointnets)]
 
+## point cloud
+### arXiv
+>#### Ahmed, Eman, Alexandre Saint, Abd El Rahman Shabayek, Kseniya Cherenkova, Rig Das, Gleb Gusev, Djamila Aouada, and Bjorn Ottersten. `"Deep learning advances on different 3D data representations: A survey."` arXiv preprint arXiv:1808.01462 (2018)[[PDF](https://arxiv.org/pdf/1808.01462)]
+
+>#### Wang, Yue, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, and Justin M. Solomon. `"Dynamic graph CNN for learning on point clouds."` arXiv preprint arXiv:1801.07829 (2018).[[PDF](https://arxiv.org/pdf/1801.07829.pdf%20http://arxiv.org/abs/1801.07829)][[CODE](https://github.com/WangYueFt/dgcnn)]
+
+>#### Zhao, Yongheng, Tolga Birdal, Haowen Deng, and Federico Tombari. `"3D Point-Capsule Networks." `arXiv preprint arXiv:1812.10775 (2018).[[PDF](https://arxiv.org/pdf/1812.10775)]
+
+>#### [3DV 2018] Yuan, Wentao, Tejas Khot, David Held, Christoph Mertz, and Martial Hebert. `"Pcn: Point completion network." `In 2018 International Conference on 3D Vision (3DV), pp. 728-737. IEEE, 2018.[[PDF](https://arxiv.org/pdf/1808.00671)] [[CODE](https://github.com/TonythePlaneswalker/pcn)]
+
 ## occlusion
 ### CVPR 2018
 >#### Subeesh Vasu, Mahesh Mohan M. R., A. N. Rajagopalan. `Occlusion-Aware Rolling Shutter Rectification of 3D Scenes`[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.pdf)][[SUPP](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/1800-supp.pdf)]
