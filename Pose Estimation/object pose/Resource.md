@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 | | Conference Papers| 2018: [CVPR](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#cvpr-2018), [ECCV](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#eccv-2018)|
 | | |2017: [CVPR](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#cvpr-2017), [ICCV](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#iccv-2017)|
-| | |2019: [CVPR]|
+| | |2019: [CVPR](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#cvpr-2019)|
 | |[others(about object pose estimation)](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#others)| |
 | |Other Related papers (in other fields)| |
 | | |[Occlusion](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#occlusion)|
@@ -28,7 +28,7 @@
 	
 # Conference Papers	
 ## CVPR-2019
->#### 1. Peng, Sida and Liu, Yuan and Huang, Qixing and Bao, Hujun and Zhou, Xiaowei. `PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation`
+>#### 1. Peng, Sida and Liu, Yuan and Huang, Qixing and Bao, Hujun and Zhou, Xiaowei. `PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation`.[[PDF](https://arxiv.org/pdf/1812.11788.pdf)][Read][[Code](https://github.com/zju-3dv/pvnet)]
 
 ## CVPR-2018
 >#### 1. Tekin, B., Sinha, S. N., & Fua, P. `Real-Time Seamless Single Shot 6D Object Pose Prediction`.[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tekin_Real-Time_Seamless_Single_CVPR_2018_paper.pdf)][Read][[Code](https://github.com/Microsoft/singleshotpose)]
