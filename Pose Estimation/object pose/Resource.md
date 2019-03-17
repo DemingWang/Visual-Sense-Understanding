@@ -23,10 +23,13 @@
 	
 	
 # arXiv 2018-2019
->#### Peng, Sida, Yuan Liu, Qixing Huang, Hujun Bao, and Xiaowei Zhou. "PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation." arXiv preprint arXiv:1812.11788 (2018).[[PDF](https://arxiv.org/pdf/1812.11788)]
+
 	
 	
 # Conference Papers	
+## CVPR-2019
+>#### 1. Peng, Sida and Liu, Yuan and Huang, Qixing and Bao, Hujun and Zhou, Xiaowei. `PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation`
+
 ## CVPR-2018
 >#### 1. Tekin, B., Sinha, S. N., & Fua, P. `Real-Time Seamless Single Shot 6D Object Pose Prediction`.[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tekin_Real-Time_Seamless_Single_CVPR_2018_paper.pdf)][Read][[Code](https://github.com/Microsoft/singleshotpose)]
 
