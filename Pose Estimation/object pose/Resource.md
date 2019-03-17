@@ -4,6 +4,7 @@
 | ----------- | ----------- | ----------- |
 | | Conference Papers| 2018: [CVPR](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#cvpr-2018), [ECCV](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#eccv-2018)|
 | | |2017: [CVPR](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#cvpr-2017), [ICCV](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#iccv-2017)|
+| | |2019: [CVPR]|
 | |[others(about object pose estimation)](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#others)| |
 | |Other Related papers (in other fields)| |
 | | |[Occlusion](https://github.com/DC1991/Visual-Sense-Understanding/blob/master/Pose%20Estimation/object%20pose/Resource.md#occlusion)|
