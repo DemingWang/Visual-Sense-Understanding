@@ -30,6 +30,9 @@
 ## CVPR-2019
 >#### 1. Peng, Sida and Liu, Yuan and Huang, Qixing and Bao, Hujun and Zhou, Xiaowei. `PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation`.[[PDF](https://arxiv.org/pdf/1812.11788.pdf)][Read][[Code](https://github.com/zju-3dv/pvnet)]
 
+>#### 2. Chen Wang, Danfei Xu, Yuke Zhu, Roberto Martín-Martín, Cewu Lu, Li Fei-Fei, Silvio Savarese. `DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion`.[[PDF](https://arxiv.org/pdf/1901.04780.pdf)][Read][[Code](https://github.com/j96w/DenseFusion)]
+
+
 ## CVPR-2018
 >#### 1. Tekin, B., Sinha, S. N., & Fua, P. `Real-Time Seamless Single Shot 6D Object Pose Prediction`.[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tekin_Real-Time_Seamless_Single_CVPR_2018_paper.pdf)][Read][[Code](https://github.com/Microsoft/singleshotpose)]
 
